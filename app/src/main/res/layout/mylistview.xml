@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:background="#5F5F5F"
+    >
+
+    <TextView
+        android:id="@+id/textviewforList"
+        android:layout_width="149dp"
+        android:layout_height="74dp"
+        android:text="University News"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        android:layout_gravity="center"
+
+
+        />
+
+</LinearLayout>
